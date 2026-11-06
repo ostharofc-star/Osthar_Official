@@ -31,9 +31,9 @@ export const config = {
             technologies: ["Flutter", "Dart", "Firebase", "GetX", "Google Maps", "Push Notifications", "Localization", "REST APIs"]
         },
         {
-            position: "Flutter Developer",
+            position: "Web Developer",
             company: "Osthar Official Pvt Ltd",
-            period: "2024 - 2026",
+            period: "2025 - 2026",
             location: "Colombo, Sri lanka",
             description: "Developed and maintained production-grade mobile applications with a strong focus on scalability, performance, and modern user experiences. Successfully delivered feature-rich solutions with backend integrations and Play Store deployments.",
             responsibilities: [
@@ -45,9 +45,9 @@ export const config = {
             technologies: ["Flutter", "Dart", "Firebase", "Provider", "REST APIs", "Google AdMob", "State Management", "Play Store Deployment"]
         },
         {
-            position: "Flutter Developer",
+            position: "Apps Developer",
             company: "Osthar Official Pvt Ltd",
-            period: "2024 - 2026",
+            period: "2026 - 2026",
             location: "Colombo, Sri lanka",
             description: "Built modern web applications and backend systems while gaining hands-on experience across the full development lifecycle. Delivered responsive interfaces and scalable server-side solutions for business requirements.",
             responsibilities: [
