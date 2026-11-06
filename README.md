@@ -8,7 +8,7 @@
 
 A premium, high-performance 3D portfolio template designed for software engineers and creative developers. This project seamlessly integrates interactive WebGL elements with a polished UI, delivering an immersive storytelling experience.
 
-> **Live Showcase:** [codexahmar.vercel.app](https://codexahmar.vercel.app/)
+> **Live Showcase:** 
 
 ---
 
@@ -84,10 +84,9 @@ If this template helps you showcase your work, please consider:
 **Ahmaryar Khan**  
 *Flutter & Full-Stack Engineer*
 
-[LinkedIn](https://linkedin.com/in/ahmaryarkhan) | [GitHub](https://github.com/codexahmar) | [Portfolio](https://codexahmar.vercel.app/)
 
 ---
 
 ## 📄 License
 
-Distributed under the [MIT License](LICENSE).
+Distributed under the 
