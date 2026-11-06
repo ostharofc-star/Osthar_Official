@@ -1,26 +1,26 @@
 export const config = {
     developer: {
-        name: "Ahmar",
-        fullName: "Ahmaryar Khan",
+        name: "OSTHAR",
+        fullName: "Pamoda Nethsara",
         title: "Flutter Developer",
         description: "Flutter Developer building cross-platform mobile applications and digital products. Experienced in Flutter, native Android development, web development, and backend integration, with a focus on scalable, high-performance, and user-centric solutions."
     }
     ,
     social: {
-        github: "codexahmar",
-        email: "codexahmar@gmail.com",
-        location: "Pakistan"
+        github: "ostharx",
+        email: "admin@ostharofficial.com",
+        location: "Sri Lanka "
     },
     about: {
         title: "About Me",
-        description: "I am a Flutter Developer from Pakistan specializing in cross-platform mobile apps. Experienced in Flutter, native development, and web development, with a focus on building reliable and easy-to-use applications. I enjoy creating digital products and turning ideas into working solutions."
+        description: "I am a Flutter Developer from Sri lanka specializing in cross-platform mobile apps. Experienced in Flutter, native development, and web development, with a focus on building reliable and easy-to-use applications. I enjoy creating digital products and turning ideas into working solutions."
     },
     experiences: [
         {
             position: "Freelance Mobile Developer",
             company: "Self-Employed",
             period: "2022 - Present",
-            location: "Pakistan",
+            location: "Sri lanka",
             description: "Partnering with clients to transform ideas into high-quality, production-ready mobile applications. Focused on delivering scalable solutions, exceptional user experiences, and reliable performance across diverse industries.",
             responsibilities: [
                 "Designing and developing custom Flutter applications tailored to client requirements",
@@ -32,9 +32,9 @@ export const config = {
         },
         {
             position: "Flutter Developer",
-            company: "Infusible Coder Pvt Ltd",
-            period: "2024 - 2025",
-            location: "Islamabad, Pakistan",
+            company: "Osthar Official Pvt Ltd",
+            period: "2024 - 2026",
+            location: "Colombo, Sri lanka",
             description: "Developed and maintained production-grade mobile applications with a strong focus on scalability, performance, and modern user experiences. Successfully delivered feature-rich solutions with backend integrations and Play Store deployments.",
             responsibilities: [
                 "Building high-performance Flutter applications from concept to deployment",
@@ -45,10 +45,10 @@ export const config = {
             technologies: ["Flutter", "Dart", "Firebase", "Provider", "REST APIs", "Google AdMob", "State Management", "Play Store Deployment"]
         },
         {
-            position: "Full-Stack Developer",
-            company: "Brandora Agency",
-            period: "2023 - 2024",
-            location: "Kohat, Pakistan",
+            position: "Flutter Developer",
+            company: "Osthar Official Pvt Ltd",
+            period: "2024 - 2026",
+            location: "Colombo, Sri lanka",
             description: "Built modern web applications and backend systems while gaining hands-on experience across the full development lifecycle. Delivered responsive interfaces and scalable server-side solutions for business requirements.",
             responsibilities: [
                 "Developing interactive and responsive user interfaces using React and JavaScript",
@@ -59,10 +59,10 @@ export const config = {
             technologies: ["React", "JavaScript", "Node.js", "Express.js", "MongoDB", "HTML", "CSS", "REST APIs"]
         },
         {
-            position: "Exploring New Technologies",
-            company: "Self-Development",
-            period: "2025 - Present",
-            location: "Pakistan",
+            position: "Flutter Developer",
+            company: "Osthar Official Pvt Ltd",
+            period: "2024 - 2026",
+            location: "Colombo, Sri lanka",
             description: "Focused on continuous engineering growth by exploring modern technologies, scalable software architectures, and industry best practices. Actively building side projects to strengthen problem-solving skills and stay aligned with evolving tech trends.",
             responsibilities: [
                 "Researching and evaluating modern frameworks and emerging technologies",
@@ -162,12 +162,12 @@ export const config = {
         }
     ],
     contact: {
-        email: "codexahmar@gmail.com",
-        github: "https://github.com/codexahmar",
-        linkedin: "https://linkedin.com/in/ahmaryarkhan",
-        twitter: "https://x.com/codexahmar",
-        instagram: "https://www.instagram.com/codexahmar",
-        resume: "https://drive.google.com/file/d/1Sx8gbTCosovIEk3tpBVapksDLcD9kKJi/view?usp=sharing"
+        email: "admin@ostharofficial.com",
+        github: "https://github.com/ostharx",
+        linkedin: "https://linkedin.com/in/pamodanethsara",
+        twitter: "https://x.com/osthar",
+        instagram: "https://www.instagram.com/osthar_page",
+        resume: ""
     },
     skills: {
         develop: {
